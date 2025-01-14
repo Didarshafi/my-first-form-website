@@ -1,0 +1,22 @@
+footer{
+    text-align: center;
+    font-synthesis-small-caps: 1000px;
+}
+nav >ul >li{
+        display: inline;
+        margin: 30px;
+}
+
+nav li > a{
+    text-decoration: none;
+}
+
+nav{
+    text-align: right;
+}
+
+section {
+    background-color: antiquewhite;
+    margin: 75px;
+    padding: 10px;
+}
